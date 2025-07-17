@@ -1,11 +1,11 @@
 
-# Parsing Script – ESP32 - Rev. A
+# Parsing + Configuration Script – esp32 - Rev. A
 
-This **Parsing** script is designed for the **ESP32** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Parsing + Configuration** script is designed for the **esp32** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Parsing
+- **Type**: Parsing + Configuration
 
 ## ⚙️ Description
 
@@ -31,13 +31,13 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 ---
 
-# Script de Parsing – ESP32 Rev. A
+# Script de Parsing + Configuration – esp32 Rev. A
 
-Este script de **Parsing** está diseñado para el modelo **ESP32** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Parsing + Configuration** está diseñado para el modelo **esp32** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Parsing
+- **Tipo**: Parsing + Configuration
 
 ## ⚙️ Descripción
 
